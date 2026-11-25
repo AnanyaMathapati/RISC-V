@@ -1,0 +1,13 @@
+# Generated executables and object files
+*.o
+*.elf
+*.out
+sum1ton-native
+signedHighest
+unsignedHighest
+
+# Editor and operating-system files
+*~
+*.swp
+.DS_Store
+Thumbs.db
