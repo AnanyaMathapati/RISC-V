@@ -96,7 +96,7 @@ cp ~/riscv_workshop_collaterals/labs/{syscalls.c,riscv.ld,start.S,start.ld,hex8t
 
 **Figure 1 – Workshop collateral and lab file exploration**
 
-![Workshop collateral and lab files](r2.3.png)
+![Workshop collateral files](Screenshots/r2.3.png)
 
 The workshop repository was cloned and its directory structure was explored to identify the required source files, processor RTL, testbench and simulation scripts.
 
@@ -251,7 +251,7 @@ The `jal` instruction transfers control to `load`, while saving the return addre
 
 **Figure 3 – RISC-V disassembly and instruction inspection**
 
-![RISC-V disassembly output](r2.2.png)
+![RISC-V disassembly](Screenshots/r2.2.png)
 
 The disassembly displays the generated machine instructions, addresses and corresponding assembly operations. It helps understand the interaction between the C program and the separately implemented assembly function.
 
