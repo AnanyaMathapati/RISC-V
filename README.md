@@ -299,15 +299,15 @@ These practical issues helped improve my understanding of Linux commands, compil
 The following screenshots document my actual hands-on work and terminal execution results.
 
 ### 01. Native GCC Compilation and Execution
-
-![Native GCC execution](images/01-native-gcc-run.png)
+...
+![Native GCC execution](images/r1.png)
 
 ### 02. Linux Directory and File Exploration
-
-![Linux directory exploration](images/02-home-directory-files.png)
+....
+![Cross compilation](images/r3.png)
 
 ### 03. C Source Code and RISC-V Cross Compilation
-
+...
 ![Cross compilation](images/03-riscv-cross-compilation.png)
 
 ### 04. Assembly and Disassembly Exploration – Part 1
