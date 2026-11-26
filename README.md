@@ -300,48 +300,46 @@ The following screenshots document my actual hands-on work and terminal executio
 
 ### 01. Native GCC Compilation and Execution
 ...
-![Native GCC execution](images/r1.png)
+![Native GCC execution](r1.png)
 
 ### 02. Linux Directory and File Exploration
 ....
-![Cross compilation](images/r3.png)
-
+![Linux directory exploration](r2.png)
 ### 03. C Source Code and RISC-V Cross Compilation
 ...
-![Cross compilation](images/03-riscv-cross-compilation.png)
+![Cross compilation](r3.png)
 
 ### 04. Assembly and Disassembly Exploration – Part 1
 
-![Assembly exploration](images/04-assembly-exploration-1.png)
+![RISC-V compilation](r4.png)
 
 ### 05. Assembly and Disassembly Exploration – Part 2
 
-![Assembly exploration](images/05-assembly-exploration-2.png)
+![Assembly exploration](r5.png)
 
 ### 06. Main Function and Instruction Inspection
 
-![Main function inspection](images/06-main-function-inspection.png)
+![Main function inspection](R6.png)
 
 ### 07. Program Execution and Instruction Inspection
 
-![Instruction inspection](images/07-instruction-inspection.png)
+![Main function disassembly](r7.png)
 
 ### 08. Spike Simulation and Debugging
 
-![Spike simulation](images/08-spike-simulation.png)
+![Optimization comparison](r8.png)
 
 ### 09. Unsigned Integer Boundary Experiments
 
-![Unsigned integer experiment](images/09-unsigned-integer-limits.png)
+![Spike debugging](r9.png)
 
 ### 10. Signed Integer Compilation and Debugging
 
-![Signed integer debugging](images/10-signed-integer-debugging.png)
+![Unsigned integer results](r10.png)
 
 ### 11. Signed Integer Boundary Results
 
-![Signed integer results](images/11-signed-integer-results.png)
-
+![Signed integer results](r11.png)
 ---
 
 ## 9. Key Takeaways
